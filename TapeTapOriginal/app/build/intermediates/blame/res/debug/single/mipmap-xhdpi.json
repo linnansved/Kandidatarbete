@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sarahane/AndroidStudioProjects/TapeTapOriginal/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/Users/sarahane/AndroidStudioProjects/TapeTapOriginal/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sarahane/AndroidStudioProjects/TapeTapOriginal/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/sarahane/AndroidStudioProjects/TapeTapOriginal/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

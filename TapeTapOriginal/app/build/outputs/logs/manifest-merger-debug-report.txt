@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/sarahane/.android/build-cache/3383ab442700d26c85549168b9bd18487102bd88/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/sarahane/.android/build-cache/ff6bcbbf6d64e2c9359887f4478d38bf78b0b8f7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/sarahane/.android/build-cache/4dcf88fa74d09922fc4bcbc656c8bbf7f7c8bb9f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/sarahane/.android/build-cache/bd364982b6a8b76f490897c1f60462ff0a9298d9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/sarahane/.android/build-cache/d9a73d6af76f4f90ff04fd14f0a3c14e652577b2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/sarahane/.android/build-cache/55a0ba6532e1fe4b3c34d4f03d2e733a3e11fb19/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/sarahane/.android/build-cache/3dde282920e354542ee7f21f013a170a4ad9085c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/sarahane/.android/build-cache/9647a273a8bd33eddab3ba5a71d03e03d3dd577d/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/sarahane/.android/build-cache/6d5b0907419ad05afb97a10d55d5af5646d9412f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sarahane/.android/build-cache/ea8256fdb5a68eb5c1c3569db0faf9f30349fb56/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.sarahane.tapetaporiginal.MainActivity
+ADDED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/sarahane/.android/build-cache/3383ab442700d26c85549168b9bd18487102bd88/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/sarahane/.android/build-cache/ff6bcbbf6d64e2c9359887f4478d38bf78b0b8f7/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/sarahane/.android/build-cache/4dcf88fa74d09922fc4bcbc656c8bbf7f7c8bb9f/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/sarahane/.android/build-cache/bd364982b6a8b76f490897c1f60462ff0a9298d9/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/sarahane/.android/build-cache/d9a73d6af76f4f90ff04fd14f0a3c14e652577b2/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/sarahane/.android/build-cache/55a0ba6532e1fe4b3c34d4f03d2e733a3e11fb19/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/sarahane/.android/build-cache/3dde282920e354542ee7f21f013a170a4ad9085c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/sarahane/.android/build-cache/9647a273a8bd33eddab3ba5a71d03e03d3dd577d/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/sarahane/.android/build-cache/6d5b0907419ad05afb97a10d55d5af5646d9412f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sarahane/.android/build-cache/ea8256fdb5a68eb5c1c3569db0faf9f30349fb56/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/sarahane/.android/build-cache/3383ab442700d26c85549168b9bd18487102bd88/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarahane/Desktop/GitKandidat/TapeTapOriginal/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/sarahane/.android/build-cache/3383ab442700d26c85549168b9bd18487102bd88/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/sarahane/.android/build-cache/ff6bcbbf6d64e2c9359887f4478d38bf78b0b8f7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/sarahane/.android/build-cache/4dcf88fa74d09922fc4bcbc656c8bbf7f7c8bb9f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/sarahane/.android/build-cache/bd364982b6a8b76f490897c1f60462ff0a9298d9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/sarahane/.android/build-cache/d9a73d6af76f4f90ff04fd14f0a3c14e652577b2/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/sarahane/.android/build-cache/55a0ba6532e1fe4b3c34d4f03d2e733a3e11fb19/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/sarahane/.android/build-cache/3dde282920e354542ee7f21f013a170a4ad9085c/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/sarahane/.android/build-cache/9647a273a8bd33eddab3ba5a71d03e03d3dd577d/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/sarahane/.android/build-cache/6d5b0907419ad05afb97a10d55d5af5646d9412f/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/sarahane/.android/build-cache/3383ab442700d26c85549168b9bd18487102bd88/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/sarahane/.android/build-cache/3383ab442700d26c85549168b9bd18487102bd88/output/AndroidManifest.xml:26:9-47
