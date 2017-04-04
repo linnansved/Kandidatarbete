@@ -53,17 +53,17 @@
         android:layout_alignStart="@+id/username" />
 
     <Button
-        android:id="@+id/button"
-        android:background="@drawable/green_button"
+        android:id="@+id/login_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:onClick="sendMessage"
-        android:text="LOG IN"
-        android:textStyle="bold"
-        android:textColor="#FFFFFF"
         android:layout_below="@+id/password"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="120dp" />
+        android:layout_marginTop="120dp"
+        android:background="@drawable/green_button"
+        android:onClick="sendMessage"
+        android:text="LOG IN"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold" />
 
     <TextView
         android:id="@+id/textView3"
