@@ -7,3 +7,7 @@
 /build
 /captures
 .externalNativeBuild
+MyApplication/.idea/libraries/
+MyApplication/.idea/workspace.xml
+MyApplication/build/
+MyApplication/local.properties
