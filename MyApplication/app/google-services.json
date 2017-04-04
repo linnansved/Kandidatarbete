@@ -8,13 +8,26 @@
   "client": [
     {
       "client_info": {
+<<<<<<< HEAD
         "mobilesdk_app_id": "1:609048344249:android:a72bb12bbe71de8b",
         "android_client_info": {
           "package_name": "com.example.sarahane.tt_original"
+=======
+<<<<<<< HEAD
+        "mobilesdk_app_id": "1:609048344249:android:a72bb12bbe71de8b",
+        "android_client_info": {
+          "package_name": "com.example.sarahane.tt_original"
+=======
+        "mobilesdk_app_id": "1:609048344249:android:a95eeadb55f393e4",
+        "android_client_info": {
+          "package_name": "com.tapetapstsgmail.tapetap2"
+>>>>>>> origin/master
+>>>>>>> origin/master
         }
       },
       "oauth_client": [
         {
+<<<<<<< HEAD
           "client_id": "609048344249-kh8e6hs2fepl7u88ehn38btkb3eh5i7i.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
@@ -23,6 +36,9 @@
           }
         },
         {
+=======
+<<<<<<< HEAD
+>>>>>>> origin/master
           "client_id": "609048344249-rkdkahf37tarsk98cio46j780etvkc79.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
@@ -30,6 +46,41 @@
             "certificate_hash": "3ec68e093acc46188b0dd37081bee3672af035e1"
           }
         },
+<<<<<<< HEAD
+=======
+=======
+          "client_id": "609048344249-cofv48oaadh635er4to92v7bonhffd3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl2aYJBe7KzqvK32MP4bKXo2kwQdyn0N8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609048344249:android:a72bb12bbe71de8b",
+        "android_client_info": {
+          "package_name": "com.example.sarahane.tt_original"
+        }
+      },
+      "oauth_client": [
+>>>>>>> origin/master
+>>>>>>> origin/master
         {
           "client_id": "609048344249-6l20hmku2cpqmid4m3js4q1nauspq3k0.apps.googleusercontent.com",
           "client_type": 1,
