@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
         mDbButton = (Button) findViewById(R.id.login_button);
             @Override
             public void onClick(View v){
-            mDatabase.child("Name").setValue("Hej")
+            mDatabase.child("Name").setValue("Hej");
     }
 
 
